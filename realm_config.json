@@ -1,0 +1,7 @@
+{
+    "app_id": "update_nebula_app-ohhqp",
+    "config_version": 20210101,
+    "name": "update_nebula_app",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "LOCAL"
+}
